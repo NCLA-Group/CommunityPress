@@ -53,7 +53,7 @@ Include details about your configuration and environment:
 
 ### Suggesting Enhancement
 
-    This section guides you through submitting a enhancement suggestion for CommunityPress, ranging from out-of-scope functionality to minor improvements to in-scope functionality.
+This section guides you through submitting a enhancement suggestion for CommunityPress, ranging from out-of-scope functionality to minor improvements to in-scope functionality.
 
 #### Enhancement Suggestion Guidelines
     
