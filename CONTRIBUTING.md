@@ -25,7 +25,7 @@ This project and everyone participating in it is governed by the [CommunityPress
 
 ### Reporting Bugs
 
-    This section guides you through submitting a bug report for Atom. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :computer: :computer:, and find related reports :mag_right:
+This section guides you through submitting a bug report for Atom. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :computer: :computer:, and find related reports :mag_right:
     
 #### Bug Report Guidelines
 
