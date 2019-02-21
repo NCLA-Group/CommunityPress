@@ -4,7 +4,7 @@
 
 The following is a set of guidelines for contributing to CommunityPress and it's packages, which are hosted in the [Neutron Creative Organization](https://github.com/Neutron-Creative) on Github. These are guidelines, not rules. Please use discretion, and feel free to propose changes to this document in a pull request.
 
-#### Table of Contents
+## Table of Contents
 
 [Code of Conduct](#code-of-conduct)
 
