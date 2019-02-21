@@ -1,6 +1,6 @@
 # Contributing to CommunityPress
 
-:+1::tada: First and foremost, thank you for taking the time to contribute! :tada::+1:
+:tada: First and foremost, thank you for taking the time to contribute! :tada:
 
 The following is a set of guidelines for contributing to CommunityPress and it's packages, which are hosted in the [Neutron Creative Organization](https://github.com/Neutron-Creative) on Github. These are guidelines, not rules. Please use discretion, and feel free to propose changes to this document in a pull request.
 
