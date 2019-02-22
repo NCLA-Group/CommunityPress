@@ -92,6 +92,7 @@ While the prerequisites above must be satisfied prior to having your pull reques
 * Reference issues and pull requests liberally after the first line
 * When only changing documentation, include `[ci skip]` in the commit title
 * Consider starting the commit message with an applicable emoji:
+    * :crane: `:crane:` when adding enhancements or expanding the project scope
     * :art: `:art:` when improving the format/structure of the code
     * :racehorse: `:racehorse:` when improving performance
     * :memo: `:memo:` when writing docs
