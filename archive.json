@@ -1,0 +1,51 @@
+{
+    "plugins" : [
+        {
+            "name" : "Elementor Page Builder",
+            "excerpt" : "The World's Leading WordPress Page Builder.",
+            "developer" : "Elementor",
+            "downloadURL" : "https://elementor.com/thankyou/?ref=download",
+            "websiteURL" : "https://elementor.com/",
+            "freeVarient" : true,
+            "price": "$50+/yr"
+        },
+        {
+            "name" : "Divi",
+            "excerpt" : "The ultimate WordPress theme and visual page builder.",
+            "developer" : "Elegant Themes",
+            "downloadURL" : null,
+            "websiteURL" : "https://www.elegantthemes.com/gallery/divi/",
+            "freeVarient" : false,
+            "price" : "$90+/yr"
+        }
+    ],
+    "themes" : [
+        {
+            "name" : "Genesis Framework",
+            "excerpt" : "The Genesis Framework empowers you to quickly and easily build incredible websites with WordPress.",
+            "developer" : "StudioPress",
+            "downloadURL": null,
+            "websiteURL": "https://my.studiopress.com/themes/genesis/",
+            "freeVarient" : false,
+            "price": "$60"
+        },
+        {
+            "name" : "Storefront",
+            "excerpt" : "WooCommerce Storefront is an intuitive & flexible, free WordPress theme offering deep integration with WooCommerce.",
+            "developer" : "WooCommerce",
+            "downloadURL" : null,
+            "websiteURL" : "https://woocommerce.com/storefront/",
+            "freeVarient" : true,
+            "price" : "N/A"
+        },
+        {
+            "name" : "Divi",
+            "excerpt" : "The ultimate WordPress theme and visual page builder.",
+            "developer" : "Elegant Themes",
+            "downloadURL" : null,
+            "websiteURL" : "https://www.elegantthemes.com/gallery/divi/",
+            "freeVarient" : false,
+            "price" : "$90+/yr"
+        }
+    ]
+}

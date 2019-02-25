@@ -1,0 +1,19 @@
+{
+  "name": "communitypress",
+  "version": "0.1.0",
+  "description": "An open-source extension to WordPress, outlining the best practices in a minimal community standard.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neutron-Creative/CommunityPress.git"
+  },
+  "author": "NCLA Group",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neutron-Creative/CommunityPress/issues"
+  },
+  "homepage": "https://github.com/Neutron-Creative/CommunityPress#readme"
+}
